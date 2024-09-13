@@ -1,5 +1,5 @@
 import './style.css'
-import '/src/temas-ts/08-herencias.ts'
+import '/src/temas-ts/volumenes.ts'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
